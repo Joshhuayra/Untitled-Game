@@ -5,8 +5,8 @@ This is a game thats it
 There are lots of ending for you to wait because its not even finished yet
 
 # How to play
-Download the .swf
-download ruffle -> https://ruffle.rs/downloads
-click "Browse"
-Select "Untitled-1.swf"
-click start
+Step 1.Download the .swf
+Step 2.download ruffle -> https://ruffle.rs/downloads
+Step 3.click "Browse"
+Step 4.Select "Untitled-1.swf"
+Step 5.click start
